@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "NER Landslide EWS",
+      "hasCanvas": false,
+      "bodyTextLen": 1842,
+      "bodyTextHash": "7ed1412536d1783edc302af6729587192ee3c90fa6cd02e08941d8b2abe89c27",
+      "bodyTextPrefix": "MDONER · SIH26001 · NORTH EASTERN REGION Landslide Early Warning",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "NER Landslide EWS",
+      "hasCanvas": false,
+      "bodyTextLen": 1842,
+      "bodyTextHash": "23a27f2748743224c6252a6ae8087722704e381e433dc010cfde9d5aa6268227",
+      "bodyTextPrefix": "MDONER · SIH26001 · NORTH EASTERN REGION Landslide Early Warning",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
